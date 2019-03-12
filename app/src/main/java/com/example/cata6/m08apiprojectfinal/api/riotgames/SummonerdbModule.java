@@ -43,7 +43,7 @@ class ApiKeyInterceptor implements Interceptor {
         HttpUrl originalHttpUrl = original.url();
 
         HttpUrl url = originalHttpUrl.newBuilder()
-                .addQueryParameter("api_key", "RGAPI-7058424f-85ce-4632-a6a4-c5f7f6175328")
+                .addQueryParameter("api_key", "RGAPI-54085aa1-8cd2-4eb1-9ee1-7bb4ccc117d8")
                 .build();
 
         Request.Builder requestBuilder = original.newBuilder()
