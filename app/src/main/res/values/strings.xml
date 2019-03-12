@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">M08ApiProject</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">A-Z</string>
+    <string name="tab_text_2">Level</string>
+    <string name="tab_text_3">Division</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
